@@ -1,3 +1,9 @@
+
+def main():
+    print("ET0735 (DevOps for AIoT) - Lab 2")
+
+if __name__ == "__main__":
+    main()
 def calculate_bmi (height, weight):
     print("Height = " + str(height))
     print ("Weight = "+ str(weight))
